@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Plan de Running IA",
+  "description": "Una aplicación web para generar planes de entrenamiento de running personalizados utilizando la IA de Gemini. Diseñada para simular el flujo de trabajo de un entrenador profesional, adaptando el plan a los datos y objetivos del atleta.",
+  "requestFramePermissions": []
+}
